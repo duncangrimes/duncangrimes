@@ -9,4 +9,4 @@
     - 🤝​ **Business**
 - ☢️​ I am a **Control Systems Engineer** on the **[Vanderbilt Fusion Project](https://www.vanderbiltfusion.org/)**
 - 👨‍🏫 I am a **Volunteer Python Instructor** for Rose Park Middle School, teaching through CodeIgnite
-- 🏐 I am the **President** of the **Vanderbilt Men's Club Volleyball Team*
+- 🏐 I am the **President** of the **Vanderbilt Men's Club Volleyball Team**
