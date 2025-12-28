@@ -1,12 +1,6 @@
 # About Me
-- 🙋‍♂️​ My name is **Duncan Grimes**
-- 🏡​ I am from Santa Monica, CA
-- 🏫​ I am a senior studying at **Vanderbilt University**, graduating in May, 2025
-  - ✌️ Working toward double majors in:
-    - 🧮​ **Applied Mathematics**
-    - 💻​ **Computer Science**
-  - ☝️ And a minor in:
-    - 🤝​ **Business**
-- ☢️​ I am a **Control Systems Engineer** on the **[Vanderbilt Fusion Project](https://www.vanderbiltfusion.org/)**
-- 👨‍🏫 I am a **Volunteer Python Instructor** for Rose Park Middle School, teaching through CodeIgnite
-- 🏐 I am the **President** of the **Vanderbilt Men's Club Volleyball Team**
+Hello! I'm Duncan Grimes, a backend software engineer with passions for machine learning and data science. I build REST APIs and databases to support [ShopYourLikes](https://www.shopyourlikes.com/), a platform that empowers influencers to monetize their content by posting retail affiliate links.
+
+I graduated from Vanderbilt University in Spring 2025, with degrees in Applied Mathematics and Computer Science, and a minor in Business.
+
+Please enjoy reading checking out some personal projects I've worked!
